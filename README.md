@@ -19,3 +19,5 @@ i hate u
     getch();
 }
 hie shyu swaaaaaaaaaaaaaaaamy
+
+my life my reels 
